@@ -1,4 +1,3 @@
-# Nav-Projects
 # Heart Disease Analysis Using Python
 
 ## Project Overview
